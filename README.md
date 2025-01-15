@@ -28,9 +28,6 @@ Destiny is more than just a project—it's an experience. Built to solve complex
 
 ---
 
-## 📈 GitHub Stats  
-![Destiny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SharkByte&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SharkByte&layout=compact&theme=radical)  
 
 ---
 
